@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  role_name: zabbix_agent
+  role_name: zabbix-agent
   author: clay-wangzhi
   description: Installing and maintaining zabbix-agent for CentOS.
   min_ansible_version: 2.5
